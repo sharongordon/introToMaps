@@ -1,6 +1,7 @@
 # introToMaps
 Exploring interactive web maps
 
+//April 20th, 2015
 
 //Issue: A user wants to be able to query some basic watershed information based on an area of interest (AOI).  Specifically, they are interested in 3 data-sets: watershed boundaries, county boundaries and stream length.  Currently, the user goes through a tedious process to find, query and save the data they are interested in.  They have to find each data source, zoom into the correct extent using varying user interfaces, and then manually query and aggregate the results through a manual process. This process limits the type of user who can fetch common data to a few people how have been trained in the process.  
 
